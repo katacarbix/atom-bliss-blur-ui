@@ -4,4 +4,4 @@ A clean dark theme for Atom. Parts of it are transparent which require you to mo
 
 ![Preview](preview.png)
 
-[Check out the light companion theme!](https://github.com/katacarbix/atom-wave-ui)
+[Check out the light companion theme!](https://github.com/katacarbix/wave-ui)

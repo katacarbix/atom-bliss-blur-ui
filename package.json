@@ -1,14 +1,14 @@
 {
-  "name": "atom-fang-ui",
+  "name": "fang-ui",
   "theme": "ui",
   "version": "0.0.0",
   "description": "A clean dark UI theme that takes advantage of Electron's transparency.",
   "keywords": [
     "ui",
     "theme",
-    "atom"
+    "dark"
   ],
-  "repository": "https://github.com/katacarbix/atom-fang-ui",
+  "repository": "https://github.com/katacarbix/fang-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
