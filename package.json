@@ -1,13 +1,14 @@
 {
-  "name": "atom-bliss-blur-ui",
+  "name": "atom-fang-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A simple UI theme that takes advantage of Electron's transparency.",
+  "description": "A clean dark UI theme that takes advantage of Electron's transparency.",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "atom"
   ],
-  "repository": "https://github.com/katacarbix/atom-bliss-blur",
+  "repository": "https://github.com/katacarbix/atom-fang-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
