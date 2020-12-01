@@ -1,7 +1,7 @@
 {
   "name": "atom-bliss-blur-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple UI theme that takes advantage of Electron's transparency.",
   "keywords": [
     "ui",
